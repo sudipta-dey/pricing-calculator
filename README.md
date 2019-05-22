@@ -1,3 +1,9 @@
+This is a pricing calculator which lets user select and country and convert GBP to the local currency of the selected country.
+
+**Note: 
+Created & used static hardcoded JSON data to display the exchange rate. Right now added rate only for following countries:-
+India, United Kingdom, United Arab Emirates, United States, Sri Lanka, Afghanistan. For rest of the countries it does not show any data.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
