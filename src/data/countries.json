@@ -1,0 +1,5588 @@
+{
+	"responseMessage": {
+		"statusCode": "0",
+		"subSystemStatusCode": null,
+		"message": "OK",
+		"link": null,
+		"developerMessage": null
+	},
+	"countries": [{
+		"country": {
+			"name": "Afghanistan",
+			"isoCode": "AF",
+			"isd": "+93",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Afghanistan Afghani",
+					"isoCode": "AFN",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 puls = afghani",
+						"fractionalPlural": "Puls",
+						"fractional": "Pul",
+						"mainPlural": "Afghanis",
+						"main": "Afghani"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Albania",
+			"isoCode": "AL",
+			"isd": "+355",
+			"currencies": [{
+				"currency": {
+					"name": "Albanian Lek",
+					"isoCode": "ALL",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 qindarka = Lek",
+						"fractionalPlural": "Qindarkas",
+						"fractional": "Qindarka",
+						"mainPlural": "Leks",
+						"main": "Lek"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Algeria",
+			"isoCode": "DZ",
+			"isd": "+213",
+			"currencies": [{
+				"currency": {
+					"name": "Algerian Dinar",
+					"isoCode": "DZD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = dinar",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Dinars",
+						"main": "Dinar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "American Samoa",
+			"isoCode": "AS",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Andorra",
+			"isoCode": "AD",
+			"isd": "+376",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Angola",
+			"isoCode": "AO",
+			"isd": "+244",
+			"currencies": [{
+				"currency": {
+					"name": "ANGOLA KWANZA OB",
+					"isoCode": "AOA",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 c\\u00EAntimos = kwanza",
+						"fractionalPlural": "C\\u00EAntimos",
+						"fractional": "C\\u00EAntimo",
+						"mainPlural": "Kwanzas",
+						"main": "Kwanza"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Anguilla",
+			"isoCode": "AI",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "East Caribbean Dollar",
+					"isoCode": "XCD",
+					"roundingFactor": "0.05",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "wCents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.05",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Argentina",
+			"isoCode": "AR",
+			"isd": "+54",
+			"currencies": [{
+				"currency": {
+					"name": "Argentine Peso",
+					"isoCode": "ARS",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 centavos = nuevo peso",
+						"fractionalPlural": "Centavos",
+						"fractional": "Centavo",
+						"mainPlural": "Pesos",
+						"main": "Peso"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Australia",
+			"isoCode": "AU",
+			"isd": "+61",
+			"currencies": [{
+				"currency": {
+					"name": "Australian Dollar",
+					"isoCode": "AUD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Austria",
+			"isoCode": "AT",
+			"isd": "+43",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Azerbaijan",
+			"isoCode": "AZ",
+			"isd": "+994",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Azerbaijani Manat",
+					"isoCode": "AZN",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 Q\\u0259pik = Manat",
+						"fractionalPlural": "Q\\u0259piks",
+						"fractional": "Q\\u0259pik",
+						"mainPlural": "Manats",
+						"main": "Manat"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Bahrain",
+			"isoCode": "BH",
+			"isd": "+973",
+			"currencies": [{
+				"currency": {
+					"name": "Bahraini Dinar",
+					"isoCode": "BHD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "1000 fils = dinar",
+						"fractionalPlural": "Fils",
+						"fractional": "Fil",
+						"mainPlural": "Dinars",
+						"main": "Dinar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Bangladesh",
+			"isoCode": "BD",
+			"isd": "+880",
+			"currencies": [{
+				"currency": {
+					"name": "Bangladeshi Taka",
+					"isoCode": "BDT",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 paisa = taka",
+						"fractionalPlural": "Paisas",
+						"fractional": "Paisa",
+						"mainPlural": "Takas",
+						"main": "Taka"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Barbados",
+			"isoCode": "BB",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "Barbados Dollar",
+					"isoCode": "BBD",
+					"roundingFactor": "0.05",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Belarus",
+			"isoCode": "BY",
+			"isd": "+375",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Belgium",
+			"isoCode": "BE",
+			"isd": "+32",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Belize",
+			"isoCode": "BZ",
+			"isd": "+501",
+			"currencies": [{
+				"currency": {
+					"name": "Belize Dollar",
+					"isoCode": "BZD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Benin",
+			"isoCode": "BJ",
+			"isd": "+229",
+			"currencies": [{
+				"currency": {
+					"name": "CFA Franc BCEAO",
+					"isoCode": "XOF",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Bermuda",
+			"isoCode": "BM",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Bhutan",
+			"isoCode": "BT",
+			"isd": "+975",
+			"currencies": [{
+				"currency": {
+					"name": "Bhutan Ngultrum",
+					"isoCode": "BTN",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 chetrum = ngultrum",
+						"fractionalPlural": "Cheltrums",
+						"fractional": "Chetrum",
+						"mainPlural": "Ngultrums",
+						"main": "Ngultrum"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Bolivia",
+			"isoCode": "BO",
+			"isd": "+591",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Bolivian Boliviano",
+					"isoCode": "BOB",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centavos = boliviano",
+						"fractionalPlural": "Centavos",
+						"fractional": "Centavo",
+						"mainPlural": "Bolivianos",
+						"main": "Boliviano"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Bosnia and Herzegovina",
+			"isoCode": "BA",
+			"isd": "+387",
+			"currencies": [{
+				"currency": {
+					"name": "Convertible  Mark",
+					"isoCode": "BAM",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "",
+						"fractionalPlural": "",
+						"fractional": "",
+						"mainPlural": "Conv Marks",
+						"main": "Conv Mark"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Botswana",
+			"isoCode": "BW",
+			"isd": "+267",
+			"currencies": [{
+				"currency": {
+					"name": "Botswana Pula",
+					"isoCode": "BWP",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 thebe = pula",
+						"fractionalPlural": "Thebe",
+						"fractional": "Thebe",
+						"mainPlural": "Pulas",
+						"main": "Pula"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Brazil",
+			"isoCode": "BR",
+			"isd": "+55",
+			"currencies": [{
+				"currency": {
+					"name": "Brazilian Real",
+					"isoCode": "BRL",
+					"roundingFactor": "0",
+					"order": null,
+					"fxFixFlag": "R;500,R",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 centavos = real",
+						"fractionalPlural": "Centavos",
+						"fractional": "Centavo",
+						"mainPlural": "Reals",
+						"main": "Real"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Brazilian Real",
+					"isoCode": "BRL",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "R;500,R",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 centavos = real",
+						"fractionalPlural": "Centavos",
+						"fractional": "Centavo",
+						"mainPlural": "Reals",
+						"main": "Real"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "British Virgin Islands",
+			"isoCode": "VG",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Brunei Darussalam",
+			"isoCode": "BN",
+			"isd": "+673",
+			"currencies": [{
+				"currency": {
+					"name": "Brunei Dollar",
+					"isoCode": "BND",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar (a.k.a. ringitt)",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Bulgaria",
+			"isoCode": "BG",
+			"isd": "+359",
+			"currencies": [{
+				"currency": {
+					"name": "Bulgarian New Lev",
+					"isoCode": "BGN",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 stotinki = lev",
+						"fractionalPlural": "Stotinkis",
+						"fractional": "Stotinki",
+						"mainPlural": "Levs",
+						"main": "Lev"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Burkina Faso",
+			"isoCode": "BF",
+			"isd": "+226",
+			"currencies": [{
+				"currency": {
+					"name": "CFA Franc BCEAO",
+					"isoCode": "XOF",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Burundi",
+			"isoCode": "BI",
+			"isd": "+257",
+			"currencies": [{
+				"currency": {
+					"name": "Burundi Franc",
+					"isoCode": "BIF",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Cambodia",
+			"isoCode": "KH",
+			"isd": "+855",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Cameroon",
+			"isoCode": "CM",
+			"isd": "+237",
+			"currencies": [{
+				"currency": {
+					"name": "CFA Franc BEAC",
+					"isoCode": "XAF",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Canada",
+			"isoCode": "CA",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "Canadian Dollar",
+					"isoCode": "CAD",
+					"roundingFactor": "0.05",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Cape Verde",
+			"isoCode": "CV",
+			"isd": "+238",
+			"currencies": [{
+				"currency": {
+					"name": "Cape Verde Escudo",
+					"isoCode": "CVE",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centavos = escudo",
+						"fractionalPlural": "Centavos",
+						"fractional": "Centavo",
+						"mainPlural": "Escudos",
+						"main": "Escudo"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Cayman Islands",
+			"isoCode": "KY",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "Cayman Islands Dollar",
+					"isoCode": "KYD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Central African Republic",
+			"isoCode": "CF",
+			"isd": "+236",
+			"currencies": [{
+				"currency": {
+					"name": "CFA Franc BEAC",
+					"isoCode": "XAF",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Chad",
+			"isoCode": "TD",
+			"isd": "+235",
+			"currencies": [{
+				"currency": {
+					"name": "CFA Franc BEAC",
+					"isoCode": "XAF",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Chile",
+			"isoCode": "CL",
+			"isd": "+56",
+			"currencies": [{
+				"currency": {
+					"name": "Chilean Peso",
+					"isoCode": "CLP",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centavos = new peso",
+						"fractionalPlural": "Centavos",
+						"fractional": "Centavo",
+						"mainPlural": "New Pesos",
+						"main": "New Peso"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "China",
+			"isoCode": "CN",
+			"isd": "+86",
+			"currencies": [{
+				"currency": {
+					"name": "Chinese Yuan Renminbi",
+					"isoCode": "CNY",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "R;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "10 jiao = yuan renminbi",
+						"fractionalPlural": "Jiao",
+						"fractional": "Jiao",
+						"mainPlural": "Yuan Renminbis",
+						"main": "Yuan Renminbi"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Colombia",
+			"isoCode": "CO",
+			"isd": "+57",
+			"currencies": [{
+				"currency": {
+					"name": "Colombian Peso",
+					"isoCode": "COP",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 centavos = peso",
+						"fractionalPlural": "Centavos",
+						"fractional": "Centavo",
+						"mainPlural": "Pesos",
+						"main": "Peso"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Comoros",
+			"isoCode": "KM",
+			"isd": "+269",
+			"currencies": [{
+				"currency": {
+					"name": "Comoros Franc",
+					"isoCode": "KMF",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Congo, Democratic Republic of",
+			"isoCode": "CD",
+			"isd": "+243",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Congo-Brazzaville",
+			"isoCode": "CG",
+			"isd": "+242",
+			"currencies": [{
+				"currency": {
+					"name": "CFA Franc BEAC",
+					"isoCode": "XAF",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Cook Islands",
+			"isoCode": "CK",
+			"isd": "+682",
+			"currencies": [{
+				"currency": {
+					"name": "New Zealand Dollar",
+					"isoCode": "NZD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Costa Rica",
+			"isoCode": "CR",
+			"isd": "+506",
+			"currencies": [{
+				"currency": {
+					"name": "Costa Rican Colon",
+					"isoCode": "CRC",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 centimos = colon",
+						"fractionalPlural": "Centimos",
+						"fractional": "Centimo",
+						"mainPlural": "Colons",
+						"main": "Colon"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Croatia",
+			"isoCode": "HR",
+			"isd": "+385",
+			"currencies": [{
+				"currency": {
+					"name": "Croatian Kuna",
+					"isoCode": "HRK",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 lipas = kuna",
+						"fractionalPlural": "Lipas",
+						"fractional": "Lipa",
+						"mainPlural": "Kunas",
+						"main": "Kuna"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Curacao",
+			"isoCode": "AN",
+			"isd": "+599",
+			"currencies": [{
+				"currency": {
+					"name": "Netherlands Antilles Guilder",
+					"isoCode": "ANG",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = N.A. guilder",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Guilders",
+						"main": "Guilder"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Cyprus",
+			"isoCode": "CY",
+			"isd": "+357",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Cyprus (Northern)",
+			"isoCode": "C2",
+			"isd": "+90",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "British Pound",
+					"isoCode": "GBP",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 pence = pound",
+						"fractionalPlural": "Pence",
+						"fractional": "Pence",
+						"mainPlural": "Pounds",
+						"main": "Pound"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Czech Republic",
+			"isoCode": "CZ",
+			"isd": "+420",
+			"currencies": [{
+				"currency": {
+					"name": "Czech Koruna",
+					"isoCode": "CZK",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 haler = koruna",
+						"fractionalPlural": "Haler",
+						"fractional": "Haler",
+						"mainPlural": "Korunas",
+						"main": "Koruna"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Denmark",
+			"isoCode": "DK",
+			"isd": "+45",
+			"currencies": [{
+				"currency": {
+					"name": "Danish Krone",
+					"isoCode": "DKK",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 ore = krone",
+						"fractionalPlural": "Ore",
+						"fractional": "Ore",
+						"mainPlural": "Kroner",
+						"main": "Krone"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Djibouti",
+			"isoCode": "DJ",
+			"isd": "+253",
+			"currencies": [{
+				"currency": {
+					"name": "Djibouti Franc",
+					"isoCode": "DJF",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Dominica",
+			"isoCode": "DM",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "East Caribbean Dollar",
+					"isoCode": "XCD",
+					"roundingFactor": "0.05",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "wCents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Dominican Republic",
+			"isoCode": "DO",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Dominican Peso",
+					"isoCode": "DOP",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centavos = peso",
+						"fractionalPlural": "Centavos",
+						"fractional": "Centavo",
+						"mainPlural": "Pesos",
+						"main": "Peso"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "East Timor",
+			"isoCode": "TP",
+			"isd": "+670",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Ecuador",
+			"isoCode": "EC",
+			"isd": "+593",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Egypt",
+			"isoCode": "EG",
+			"isd": "+20",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Egyptian Pound",
+					"isoCode": "EGP",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "1000 milliemes = pound,100 piasters = pound",
+						"fractionalPlural": "Milliemes",
+						"fractional": "Millieme",
+						"mainPlural": "Pounds",
+						"main": "Pound"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "El Salvador",
+			"isoCode": "SV",
+			"isd": "+503",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Equatorial Guinea",
+			"isoCode": "GQ",
+			"isd": "+240",
+			"currencies": [{
+				"currency": {
+					"name": "CFA Franc BEAC",
+					"isoCode": "XAF",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Eritrea",
+			"isoCode": "ER",
+			"isd": "+291",
+			"currencies": [{
+				"currency": {
+					"name": "Eritrean Nakfa",
+					"isoCode": "ERN",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = nakfa",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Nakfas",
+						"main": "Nakfa"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Estonia",
+			"isoCode": "EE",
+			"isd": "+372",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Ethiopia",
+			"isoCode": "ET",
+			"isd": "+251",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Falkland Islands (Malvinas)",
+			"isoCode": "FK",
+			"isd": "+500",
+			"currencies": [{
+				"currency": {
+					"name": "Falkland Islands Pound",
+					"isoCode": "FKP",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 pence = pound",
+						"fractionalPlural": "Pence",
+						"fractional": "Pence",
+						"mainPlural": "Pounds",
+						"main": "Pound"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Fiji",
+			"isoCode": "FJ",
+			"isd": "+679",
+			"currencies": [{
+				"currency": {
+					"name": "Fiji Dollar",
+					"isoCode": "FJD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Finland",
+			"isoCode": "FI",
+			"isd": "+358",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "France",
+			"isoCode": "FR",
+			"isd": "+33",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "French Guiana",
+			"isoCode": "GF",
+			"isd": "+594",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Gabon",
+			"isoCode": "GA",
+			"isd": "+241",
+			"currencies": [{
+				"currency": {
+					"name": "CFA Franc BEAC",
+					"isoCode": "XAF",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Gambia",
+			"isoCode": "GM",
+			"isd": "+220",
+			"currencies": [{
+				"currency": {
+					"name": "Gambian Dalasi",
+					"isoCode": "GMD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 butut = dalasi",
+						"fractionalPlural": "Butut",
+						"fractional": "Butut",
+						"mainPlural": "Dalasis",
+						"main": "Dalasi"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Georgia",
+			"isoCode": "GE",
+			"isd": "+995",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Germany",
+			"isoCode": "DE",
+			"isd": "+49",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Ghana",
+			"isoCode": "GH",
+			"isd": "+233",
+			"currencies": [{
+				"currency": {
+					"name": "Ghanaian Cedi",
+					"isoCode": "GHS",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 pesewas = cedi",
+						"fractionalPlural": "Pesewas",
+						"fractional": "Pesewa",
+						"mainPlural": "Cedis",
+						"main": "Cedi"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Gibraltar",
+			"isoCode": "GI",
+			"isd": "+350",
+			"currencies": [{
+				"currency": {
+					"name": "British Pound",
+					"isoCode": "GBP",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 pence = pound",
+						"fractionalPlural": "Pence",
+						"fractional": "Pence",
+						"mainPlural": "Pounds",
+						"main": "Pound"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Greece",
+			"isoCode": "GR",
+			"isd": "+30",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Grenada",
+			"isoCode": "GD",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "East Caribbean Dollar",
+					"isoCode": "XCD",
+					"roundingFactor": "0.05",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "wCents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Guadeloupe",
+			"isoCode": "GP",
+			"isd": "+590",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Guam",
+			"isoCode": "GU",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Guam US Military Base",
+			"isoCode": "XY",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Guatemala",
+			"isoCode": "GT",
+			"isd": "+502",
+			"currencies": [{
+				"currency": {
+					"name": "Guatemalan Quetzal",
+					"isoCode": "GTQ",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 centavos = quetzal",
+						"fractionalPlural": "Centavos",
+						"fractional": "Centavo",
+						"mainPlural": "Quetzals",
+						"main": "Quetzal"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Guinea",
+			"isoCode": "GN",
+			"isd": "+224",
+			"currencies": [{
+				"currency": {
+					"name": "Guinea Franc",
+					"isoCode": "GNF",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "",
+						"fractionalPlural": "",
+						"fractional": "",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Guinea-Bissau",
+			"isoCode": "GW",
+			"isd": "+245",
+			"currencies": [{
+				"currency": {
+					"name": "CFA Franc BCEAO",
+					"isoCode": "XOF",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Guyana",
+			"isoCode": "GY",
+			"isd": "+592",
+			"currencies": [{
+				"currency": {
+					"name": "Guyanan Dollar",
+					"isoCode": "GYD",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Haiti",
+			"isoCode": "HT",
+			"isd": "+509",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Honduras",
+			"isoCode": "HN",
+			"isd": "+504",
+			"currencies": [{
+				"currency": {
+					"name": "Honduran Lempira",
+					"isoCode": "HNL",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "R;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 centavos = lempira",
+						"fractionalPlural": "Centavos",
+						"fractional": "Centavo",
+						"mainPlural": "Lempiras",
+						"main": "Lempira"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Hong Kong",
+			"isoCode": "HK",
+			"isd": "+852",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Hong Kong Dollar",
+					"isoCode": "HKD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Hungary",
+			"isoCode": "HU",
+			"isd": "+36",
+			"currencies": [{
+				"currency": {
+					"name": "Hungarian Forint",
+					"isoCode": "HUF",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "",
+						"fractionalPlural": "",
+						"fractional": "",
+						"mainPlural": "Forints",
+						"main": "Forint"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Iceland",
+			"isoCode": "IS",
+			"isd": "+354",
+			"currencies": [{
+				"currency": {
+					"name": "Iceland Krona",
+					"isoCode": "ISK",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 aurar = krona",
+						"fractionalPlural": "Aurar",
+						"fractional": "Aurar",
+						"mainPlural": "Kronas",
+						"main": "Krona"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "India",
+			"isoCode": "IN",
+			"isd": "+91",
+			"currencies": [{
+				"currency": {
+					"name": "Indian Rupee",
+					"isoCode": "INR",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 paise = rupee",
+						"fractionalPlural": "Paise",
+						"fractional": "Paise",
+						"mainPlural": "Rupees",
+						"main": "Rupee"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Indonesia",
+			"isoCode": "ID",
+			"isd": "+62",
+			"currencies": [{
+				"currency": {
+					"name": "Indonesian Rupiah",
+					"isoCode": "IDR",
+					"roundingFactor": "100",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 sen = rupiah",
+						"fractionalPlural": "Sen",
+						"fractional": "Sen",
+						"mainPlural": "Rupiahs",
+						"main": "Rupiah"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Iraq",
+			"isoCode": "IQ",
+			"isd": "+964",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Iraqi Dinar",
+					"isoCode": "IQD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "1000 fils = dinar",
+						"fractionalPlural": "Fils",
+						"fractional": "Fil",
+						"mainPlural": "Dinars",
+						"main": "Dinar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Ireland",
+			"isoCode": "IE",
+			"isd": "+353",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Israel",
+			"isoCode": "IL",
+			"isd": "+972",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Israeli New Shekel",
+					"isoCode": "ILS",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 new agorot = new shekel",
+						"fractionalPlural": "New Agorot",
+						"fractional": "New Agorot",
+						"mainPlural": "New Shekels",
+						"main": "New Shekel"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Italy",
+			"isoCode": "IT",
+			"isd": "+39",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Ivory Coast",
+			"isoCode": "CI",
+			"isd": "+225",
+			"currencies": [{
+				"currency": {
+					"name": "CFA Franc BCEAO",
+					"isoCode": "XOF",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Jamaica",
+			"isoCode": "JM",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "Jamaican Dollar",
+					"isoCode": "JMD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Japan",
+			"isoCode": "JP",
+			"isd": "+81",
+			"currencies": [{
+				"currency": {
+					"name": "Japanese Yen",
+					"isoCode": "JPY",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 sen = yen",
+						"fractionalPlural": "Sen",
+						"fractional": "Sen",
+						"mainPlural": "Yen",
+						"main": "Yen"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Jordan",
+			"isoCode": "JO",
+			"isd": "+962",
+			"currencies": [{
+				"currency": {
+					"name": "Jordanian Dinar",
+					"isoCode": "JOD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "1000 fils = dinar",
+						"fractionalPlural": "Fils",
+						"fractional": "Fil",
+						"mainPlural": "Dinars",
+						"main": "Dinar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Kazakhstan",
+			"isoCode": "KZ",
+			"isd": "+7",
+			"currencies": [{
+				"currency": {
+					"name": "Kazakhstan Tenge",
+					"isoCode": "KZT",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 tiyn = tenge",
+						"fractionalPlural": "Tiyn",
+						"fractional": "Tiyn",
+						"mainPlural": "Tenge",
+						"main": "Tenge"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Kenya",
+			"isoCode": "KE",
+			"isd": "+254",
+			"currencies": [{
+				"currency": {
+					"name": "Kenyan Shilling",
+					"isoCode": "KES",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = shilling",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Shillings",
+						"main": "Shilling"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Kiribati",
+			"isoCode": "KI",
+			"isd": "+686",
+			"currencies": [{
+				"currency": {
+					"name": "Australian Dollar",
+					"isoCode": "AUD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Korea",
+			"isoCode": "KR",
+			"isd": "+82",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Kosovo",
+			"isoCode": "K1",
+			"isd": "+383",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Kuwait",
+			"isoCode": "KW",
+			"isd": "+965",
+			"currencies": [{
+				"currency": {
+					"name": "Kuwaiti Dinar",
+					"isoCode": "KWD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "1000 fils = dinar",
+						"fractionalPlural": "Fils",
+						"fractional": "Fil",
+						"mainPlural": "Dinars",
+						"main": "Dinar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Kyrghyz Republic",
+			"isoCode": "KG",
+			"isd": "+996",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Laos",
+			"isoCode": "LA",
+			"isd": "+856",
+			"currencies": [{
+				"currency": {
+					"name": "Laos Kip",
+					"isoCode": "LAK",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 at = new kip",
+						"fractionalPlural": "Ats",
+						"fractional": "At",
+						"mainPlural": "New Kips",
+						"main": "New Kip"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Latvia",
+			"isoCode": "LV",
+			"isd": "+371",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Lebanon",
+			"isoCode": "LB",
+			"isd": "+961",
+			"currencies": [{
+				"currency": {
+					"name": "Lebanese Pound",
+					"isoCode": "LBP",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 piastres = pound (livre)",
+						"fractionalPlural": "Paistres",
+						"fractional": "Piastre",
+						"mainPlural": "Pounds",
+						"main": "Pound"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Lesotho",
+			"isoCode": "LS",
+			"isd": "+266",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Liberia",
+			"isoCode": "LR",
+			"isd": "+231",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Liechtenstein",
+			"isoCode": "LI",
+			"isd": "+423",
+			"currencies": [{
+				"currency": {
+					"name": "Swiss Franc",
+					"isoCode": "CHF",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Lithuania",
+			"isoCode": "LT",
+			"isd": "+370",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Luxembourg",
+			"isoCode": "LU",
+			"isd": "+352",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Macau",
+			"isoCode": "MO",
+			"isd": "+853",
+			"currencies": [{
+				"currency": {
+					"name": "Macau Pataca",
+					"isoCode": "MOP",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 avos = pataca",
+						"fractionalPlural": "Avos",
+						"fractional": "Avo",
+						"mainPlural": "Patacas",
+						"main": "Pataca"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Macedonia",
+			"isoCode": "MK",
+			"isd": "+389",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Madagascar",
+			"isoCode": "MG",
+			"isd": "+261",
+			"currencies": [{
+				"currency": {
+					"name": "Malagasy Ariary",
+					"isoCode": "MGA",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "5 iraimbilanja = ariary",
+						"fractionalPlural": "Iraimbilanja",
+						"fractional": "Iraimbilanja",
+						"mainPlural": "Ariary",
+						"main": "Ariary"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Malawi",
+			"isoCode": "MW",
+			"isd": "+265",
+			"currencies": [{
+				"currency": {
+					"name": "Malawi Kwacha",
+					"isoCode": "MWK",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 tambala = kwacha",
+						"fractionalPlural": "Tambala",
+						"fractional": "Tambala",
+						"mainPlural": "Kwachas",
+						"main": "Kwacha"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Malaysia",
+			"isoCode": "MY",
+			"isd": "+60",
+			"currencies": [{
+				"currency": {
+					"name": "Malaysian Ringgit",
+					"isoCode": "MYR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 sen = ringgit",
+						"fractionalPlural": "Sen",
+						"fractional": "Sen",
+						"mainPlural": "Ringgits",
+						"main": "Ringgit"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Maldives",
+			"isoCode": "MV",
+			"isd": "+960",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Maldive Rufiyaa",
+					"isoCode": "MVR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 lari = rufiyaa",
+						"fractionalPlural": "Lari",
+						"fractional": "Lari",
+						"mainPlural": "Rufiyaas",
+						"main": "Rufiyaa"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Mali",
+			"isoCode": "ML",
+			"isd": "+223",
+			"currencies": [{
+				"currency": {
+					"name": "CFA Franc BCEAO",
+					"isoCode": "XOF",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Malta",
+			"isoCode": "MT",
+			"isd": "+356",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Marshall Islands",
+			"isoCode": "MH",
+			"isd": "+692",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Martinique",
+			"isoCode": "MQ",
+			"isd": "+596",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Mauritania",
+			"isoCode": "MR",
+			"isd": "+222",
+			"currencies": [{
+				"currency": {
+					"name": "New Ouguiya",
+					"isoCode": "MRU",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "5 khoums = ouguiya",
+						"fractionalPlural": "Khoums",
+						"fractional": "Khoum",
+						"mainPlural": "Ouguiyas",
+						"main": "Ouguiya"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Mauritius",
+			"isoCode": "MU",
+			"isd": "+230",
+			"currencies": [{
+				"currency": {
+					"name": "Mauritius Rupee",
+					"isoCode": "MUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = rupee",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Rupees",
+						"main": "Rupee"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Mayotte",
+			"isoCode": "YT",
+			"isd": "+262",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Mexico",
+			"isoCode": "MX",
+			"isd": "+52",
+			"currencies": [{
+				"currency": {
+					"name": "Mexican Peso",
+					"isoCode": "MXN",
+					"roundingFactor": "0.5",
+					"order": "1",
+					"fxFixFlag": "H;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 centavo = peso",
+						"fractionalPlural": "Centavos",
+						"fractional": "Centavo",
+						"mainPlural": "Pesos",
+						"main": "Peso"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Micronesia",
+			"isoCode": "FM",
+			"isd": "+691",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Moldova",
+			"isoCode": "MD",
+			"isd": "+373",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "3",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Moldovan Leu",
+					"isoCode": "MDL",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "",
+						"fractionalPlural": "",
+						"fractional": "",
+						"mainPlural": "Lei",
+						"main": "Leu"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Monaco",
+			"isoCode": "MC",
+			"isd": "+377",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Mongolia",
+			"isoCode": "MN",
+			"isd": "+976",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Montenegro",
+			"isoCode": "ME",
+			"isd": "+382",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Montserrat",
+			"isoCode": "MS",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "East Caribbean Dollar",
+					"isoCode": "XCD",
+					"roundingFactor": "0.05",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "wCents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Morocco",
+			"isoCode": "MA",
+			"isd": "+212",
+			"currencies": [{
+				"currency": {
+					"name": "Moroccan Dirham",
+					"isoCode": "MAD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = dirham",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Dirhams",
+						"main": "Dirham"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Mozambique",
+			"isoCode": "MZ",
+			"isd": "+258",
+			"currencies": [{
+				"currency": {
+					"name": "Mozambique New Metical",
+					"isoCode": "MZN",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centavos = metical",
+						"fractionalPlural": "Centavos",
+						"fractional": "Centavo",
+						"mainPlural": "Meticals",
+						"main": "Metical"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Myanmar",
+			"isoCode": "MM",
+			"isd": "+95",
+			"currencies": [{
+				"currency": {
+					"name": "Myanmar Kyat",
+					"isoCode": "MMK",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 pya = kyat",
+						"fractionalPlural": "Pya",
+						"fractional": "Pya",
+						"mainPlural": "Kyats",
+						"main": "Kyat"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Namibia",
+			"isoCode": "NA",
+			"isd": "+264",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "H;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Nauru",
+			"isoCode": "NR",
+			"isd": "+674",
+			"currencies": [{
+				"currency": {
+					"name": "Australian Dollar",
+					"isoCode": "AUD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Nepal",
+			"isoCode": "NP",
+			"isd": "+977",
+			"currencies": [{
+				"currency": {
+					"name": "Nepalese Rupee",
+					"isoCode": "NPR",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 paise = rupee",
+						"fractionalPlural": "Paise",
+						"fractional": "Paise",
+						"mainPlural": "Rupees",
+						"main": "Rupee"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Netherlands",
+			"isoCode": "NL",
+			"isd": "+31",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "New Zealand",
+			"isoCode": "NZ",
+			"isd": "+64",
+			"currencies": [{
+				"currency": {
+					"name": "New Zealand Dollar",
+					"isoCode": "NZD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Nicaragua",
+			"isoCode": "NI",
+			"isd": "+505",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Niger",
+			"isoCode": "NE",
+			"isd": "+227",
+			"currencies": [{
+				"currency": {
+					"name": "CFA Franc BCEAO",
+					"isoCode": "XOF",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Nigeria",
+			"isoCode": "NG",
+			"isd": "+234",
+			"currencies": [{
+				"currency": {
+					"name": "Nigerian Naira",
+					"isoCode": "NGN",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 kobo = naira",
+						"fractionalPlural": "Kobos",
+						"fractional": "Kobo",
+						"mainPlural": "Nairas",
+						"main": "Naira"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Niue",
+			"isoCode": "NU",
+			"isd": "+683",
+			"currencies": [{
+				"currency": {
+					"name": "New Zealand Dollar",
+					"isoCode": "NZD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Northern Mariana Islands",
+			"isoCode": "MP",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Norway",
+			"isoCode": "NO",
+			"isd": "+47",
+			"currencies": [{
+				"currency": {
+					"name": "Norwegian Krone",
+					"isoCode": "NOK",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 ore = krone",
+						"fractionalPlural": "Ore",
+						"fractional": "ore",
+						"mainPlural": "Kroner",
+						"main": "Krone"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Oman",
+			"isoCode": "OM",
+			"isd": "+968",
+			"currencies": [{
+				"currency": {
+					"name": "Omani Rial",
+					"isoCode": "OMR",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "1000 baizas = rial",
+						"fractionalPlural": "Baizas",
+						"fractional": "Baiza",
+						"mainPlural": "Rials",
+						"main": "Rial"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Pakistan",
+			"isoCode": "PK",
+			"isd": "+92",
+			"currencies": [{
+				"currency": {
+					"name": "Pakistan Rupee",
+					"isoCode": "PKR",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 paisa = rupee",
+						"fractionalPlural": "Paisas",
+						"fractional": "Paisa",
+						"mainPlural": "Rupees",
+						"main": "Rupee"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Palau",
+			"isoCode": "PW",
+			"isd": "+680",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Panama",
+			"isoCode": "PA",
+			"isd": "+507",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Papua New Guinea",
+			"isoCode": "PG",
+			"isd": "+675",
+			"currencies": [{
+				"currency": {
+					"name": "Papua New Guinea Kina",
+					"isoCode": "PGK",
+					"roundingFactor": "0.05",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 toeas = kina",
+						"fractionalPlural": "Toeas",
+						"fractional": "Toea",
+						"mainPlural": "Kinas",
+						"main": "Kina"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Paraguay",
+			"isoCode": "PY",
+			"isd": "+595",
+			"currencies": [{
+				"currency": {
+					"name": "Paraguay Guarani",
+					"isoCode": "PYG",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimos = guarani",
+						"fractionalPlural": "Centimos",
+						"fractional": "Centimo",
+						"mainPlural": "Guaranis",
+						"main": "Guarani"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Peru",
+			"isoCode": "PE",
+			"isd": "+51",
+			"currencies": [{
+				"currency": {
+					"name": "Sol",
+					"isoCode": "PEN",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 centimos = sol",
+						"fractionalPlural": "Centimos",
+						"fractional": "Centimo",
+						"mainPlural": "Sols",
+						"main": "Sol"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Philippines",
+			"isoCode": "PH",
+			"isd": "+63",
+			"currencies": [{
+				"currency": {
+					"name": "Philippine Peso",
+					"isoCode": "PHP",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 centavos = peso",
+						"fractionalPlural": "Centavos",
+						"fractional": "Centavo",
+						"mainPlural": "Pesos",
+						"main": "Peso"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Poland",
+			"isoCode": "PL",
+			"isd": "+48",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Polish Zloty",
+					"isoCode": "PLN",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 groszy = zloty",
+						"fractionalPlural": "Groszy",
+						"fractional": "Groszy",
+						"mainPlural": "Zlotys",
+						"main": "Zloty"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Portugal",
+			"isoCode": "PT",
+			"isd": "+351",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Puerto Rico",
+			"isoCode": "PR",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Qatar",
+			"isoCode": "QA",
+			"isd": "+974",
+			"currencies": [{
+				"currency": {
+					"name": "Qatari Rial",
+					"isoCode": "QAR",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 dirhams = riyal",
+						"fractionalPlural": "Dirhams",
+						"fractional": "Dirham",
+						"mainPlural": "Riyals",
+						"main": "Riyal"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Reunion Island",
+			"isoCode": "RE",
+			"isd": "+262",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Romania",
+			"isoCode": "RO",
+			"isd": "+40",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Romanian New Leu",
+					"isoCode": "RON",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 bani = leu",
+						"fractionalPlural": "Bani",
+						"fractional": "Ban",
+						"mainPlural": "Lei",
+						"main": "Leu"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Rota, CNMI",
+			"isoCode": "XW",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Russia",
+			"isoCode": "RU",
+			"isd": "+7",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Russian  Rouble",
+					"isoCode": "RUB",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 kopecks = rouble",
+						"fractionalPlural": "Kopecks",
+						"fractional": "Kopeck",
+						"mainPlural": "Roubles",
+						"main": "Rouble"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Rwanda",
+			"isoCode": "RW",
+			"isd": "+250",
+			"currencies": [{
+				"currency": {
+					"name": "Rwanda Franc",
+					"isoCode": "RWF",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centime = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Saint Barthelemy",
+			"isoCode": "BL",
+			"isd": "+590",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Saint Kitts And Nevis",
+			"isoCode": "KN",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.05",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "East Caribbean Dollar",
+					"isoCode": "XCD",
+					"roundingFactor": "0.05",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "wCents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Saint Lucia",
+			"isoCode": "LC",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "East Caribbean Dollar",
+					"isoCode": "XCD",
+					"roundingFactor": "0.05",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "wCents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Saint Vincent And The Grenadines",
+			"isoCode": "VC",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "East Caribbean Dollar",
+					"isoCode": "XCD",
+					"roundingFactor": "0.05",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "wCents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Saipan, CNMI",
+			"isoCode": "XU",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Samoa",
+			"isoCode": "WS",
+			"isd": "+685",
+			"currencies": [{
+				"currency": {
+					"name": "Samoan Tala",
+					"isoCode": "WST",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 sene = tala",
+						"fractionalPlural": "Sene",
+						"fractional": "Sene",
+						"mainPlural": "Talas",
+						"main": "Tala"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Sao Tome And Principe",
+			"isoCode": "ST",
+			"isd": "+239",
+			"currencies": [{
+				"currency": {
+					"name": "Sao Tome New Dobra",
+					"isoCode": "STN",
+					"roundingFactor": "0.1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimos = dobra",
+						"fractionalPlural": "Centimos",
+						"fractional": "Centimo",
+						"mainPlural": "Dobras",
+						"main": "Dobra"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Saudi Arabia",
+			"isoCode": "SA",
+			"isd": "+966",
+			"currencies": [{
+				"currency": {
+					"name": "Saudi Riyal",
+					"isoCode": "SAR",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 halalas = riyal",
+						"fractionalPlural": "Halalas",
+						"fractional": "Halala",
+						"mainPlural": "Riyals",
+						"main": "Riyal"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Senegal",
+			"isoCode": "SN",
+			"isd": "+221",
+			"currencies": [{
+				"currency": {
+					"name": "CFA Franc BCEAO",
+					"isoCode": "XOF",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Serbia",
+			"isoCode": "YU",
+			"isd": "+381",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Serbian Dinar",
+					"isoCode": "RSD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 Para = Dinar",
+						"fractionalPlural": "Para",
+						"fractional": "Para",
+						"mainPlural": "Dinars",
+						"main": "Dinar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Seychelles",
+			"isoCode": "SC",
+			"isd": "+248",
+			"currencies": [{
+				"currency": {
+					"name": "Seychelles Rupee",
+					"isoCode": "SCR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = rupee",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Rupees",
+						"main": "Rupee"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Sierra Leone",
+			"isoCode": "SL",
+			"isd": "+232",
+			"currencies": [{
+				"currency": {
+					"name": "Sierra Leone Leone",
+					"isoCode": "SLL",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = leone",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Leones",
+						"main": "Leone"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Singapore",
+			"isoCode": "SG",
+			"isd": "+65",
+			"currencies": [{
+				"currency": {
+					"name": "Singapore Dollar",
+					"isoCode": "SGD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Slovakia",
+			"isoCode": "SK",
+			"isd": "+421",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Slovenia",
+			"isoCode": "SI",
+			"isd": "+386",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Solomon Islands",
+			"isoCode": "SB",
+			"isd": "+677",
+			"currencies": [{
+				"currency": {
+					"name": "Solomon Islands Dollar",
+					"isoCode": "SBD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Somalia (Somaliland)",
+			"isoCode": "SO",
+			"isd": "+252",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "South Africa",
+			"isoCode": "ZA",
+			"isd": "+27",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "H;500,S",
+					"textQuestion": "Y",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "South Sudan",
+			"isoCode": "SS",
+			"isd": "+211",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "South Sudanese Pound",
+					"isoCode": "SSP",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 piastres = pound",
+						"fractionalPlural": "Piastres",
+						"fractional": "Piastre",
+						"mainPlural": "Pounds",
+						"main": "Pound"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Spain",
+			"isoCode": "ES",
+			"isd": "+34",
+			"currencies": [{
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Sri Lanka",
+			"isoCode": "LK",
+			"isd": "+94",
+			"currencies": [{
+				"currency": {
+					"name": "Sri Lanka Rupee",
+					"isoCode": "LKR",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = rupee",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Rupees",
+						"main": "Rupee"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "St. Maarten",
+			"isoCode": "S1",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Netherlands Antilles Guilder",
+					"isoCode": "ANG",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = N.A. guilder",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Guilders",
+						"main": "Guilder"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "St. Thomas",
+			"isoCode": "XD",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Sudan",
+			"isoCode": "SD",
+			"isd": "+249",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Suriname",
+			"isoCode": "SR",
+			"isd": "+597",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Sweden",
+			"isoCode": "SE",
+			"isd": "+46",
+			"currencies": [{
+				"currency": {
+					"name": "Swedish Krona",
+					"isoCode": "SEK",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 ore = krona",
+						"fractionalPlural": "Ore",
+						"fractional": "Ore",
+						"mainPlural": "Kronor",
+						"main": "Krona"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Switzerland",
+			"isoCode": "CH",
+			"isd": "+41",
+			"currencies": [{
+				"currency": {
+					"name": "Swiss Franc",
+					"isoCode": "CHF",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Taiwan",
+			"isoCode": "TW",
+			"isd": "+886",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Tajikistan",
+			"isoCode": "TJ",
+			"isd": "+992",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Tanzania",
+			"isoCode": "TZ",
+			"isd": "+255",
+			"currencies": [{
+				"currency": {
+					"name": "Tanzanian Shilling",
+					"isoCode": "TZS",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = shilling",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Shillings",
+						"main": "Shilling"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Thailand",
+			"isoCode": "TH",
+			"isd": "+66",
+			"currencies": [{
+				"currency": {
+					"name": "Thai Baht",
+					"isoCode": "THB",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 sastangs = baht",
+						"fractionalPlural": "Sastangs",
+						"fractional": "Sastang",
+						"mainPlural": "Bahts",
+						"main": "Baht"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Tinian, CNMI",
+			"isoCode": "XV",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Togo",
+			"isoCode": "TG",
+			"isd": "+228",
+			"currencies": [{
+				"currency": {
+					"name": "CFA Franc BCEAO",
+					"isoCode": "XOF",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = franc",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Francs",
+						"main": "Franc"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Tonga",
+			"isoCode": "TO",
+			"isd": "+676",
+			"currencies": [{
+				"currency": {
+					"name": "Tongan Pa'anga",
+					"isoCode": "TOP",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 seniti = pa'anga",
+						"fractionalPlural": "Seniti",
+						"fractional": "Seniti",
+						"mainPlural": "Pa'angas",
+						"main": "Pa'anga"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Trinidad and Tobago",
+			"isoCode": "TT",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "Trinidad/Tobago Dollar",
+					"isoCode": "TTD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Tunisia",
+			"isoCode": "TN",
+			"isd": "+216",
+			"currencies": [{
+				"currency": {
+					"name": "Tunisian Dinar",
+					"isoCode": "TND",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "1000 millimes = dinar",
+						"fractionalPlural": "Millimes",
+						"fractional": "Millime",
+						"mainPlural": "Dinars",
+						"main": "Dinar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Turkey",
+			"isoCode": "TR",
+			"isd": "+90",
+			"currencies": [{
+				"currency": {
+					"name": "New Turkish Lira",
+					"isoCode": "TRY",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 kuru\\u015F = lira",
+						"fractionalPlural": "Kuru\\u015F",
+						"fractional": "Kuru\\u015F",
+						"mainPlural": "Liras",
+						"main": "Lira"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "Euro",
+					"isoCode": "EUR",
+					"roundingFactor": "0.01",
+					"order": "3",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = euro",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Euros",
+						"main": "Euro"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Turkmenistan",
+			"isoCode": "TM",
+			"isd": "+993",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Turks and Caicos Islands",
+			"isoCode": "TC",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Tuvalu",
+			"isoCode": "TV",
+			"isd": "+688",
+			"currencies": [{
+				"currency": {
+					"name": "Australian Dollar",
+					"isoCode": "AUD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Uganda",
+			"isoCode": "UG",
+			"isd": "+256",
+			"currencies": [{
+				"currency": {
+					"name": "Uganda Shilling",
+					"isoCode": "UGX",
+					"roundingFactor": "1",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "",
+						"fractionalPlural": "",
+						"fractional": "",
+						"mainPlural": "Shillings",
+						"main": "Shilling"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Ukraine",
+			"isoCode": "UA",
+			"isd": "+380",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "United Arab Emirates",
+			"isoCode": "AE",
+			"isd": "+971",
+			"currencies": [{
+				"currency": {
+					"name": "Utd. Arab Emir. Dirham",
+					"isoCode": "AED",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 fils = dirham",
+						"fractionalPlural": "Fils",
+						"fractional": "Fil",
+						"mainPlural": "Dirhams",
+						"main": "Dirham"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "United Kingdom",
+			"isoCode": "GB",
+			"isd": "+44",
+			"currencies": [{
+				"currency": {
+					"name": "British Pound",
+					"isoCode": "GBP",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 pence = pound",
+						"fractionalPlural": "Pence",
+						"fractional": "Pence",
+						"mainPlural": "Pounds",
+						"main": "Pound"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "United States",
+			"isoCode": "US",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Uruguay",
+			"isoCode": "UY",
+			"isd": "+598",
+			"currencies": [{
+				"currency": {
+					"name": "Peso  Uruguayo",
+					"isoCode": "UYU",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "",
+						"fractionalPlural": "",
+						"fractional": "",
+						"mainPlural": "Pesos",
+						"main": "Peso"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Uzbekistan",
+			"isoCode": "UZ",
+			"isd": "+998",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "P",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Vanuatu",
+			"isoCode": "VU",
+			"isd": "+678",
+			"currencies": [{
+				"currency": {
+					"name": "Vanuatu Vatu",
+					"isoCode": "VUV",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 centimes = vatu",
+						"fractionalPlural": "Centimes",
+						"fractional": "Centime",
+						"mainPlural": "Vatus",
+						"main": "Vatu"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Vietnam",
+			"isoCode": "VN",
+			"isd": "+84",
+			"currencies": [{
+				"currency": {
+					"name": "Vietnamese Dong",
+					"isoCode": "VND",
+					"roundingFactor": "1000",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "10 xu = hao,10 hao = new dong",
+						"fractionalPlural": "Hao",
+						"fractional": "Hao",
+						"mainPlural": "Dongs",
+						"main": "Dong"
+					}
+				}
+			}, {
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0",
+					"order": "2",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Virgin Islands (US)",
+			"isoCode": "VI",
+			"isd": "+1",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Zambia",
+			"isoCode": "ZM",
+			"isd": "+260",
+			"currencies": [{
+				"currency": {
+					"name": "Zambian  Kwacha",
+					"isoCode": "ZMW",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 ngwee = kwacha",
+						"fractionalPlural": "Ngwees",
+						"fractional": "Ngwee",
+						"mainPlural": "Kwachas",
+						"main": "Kwacha"
+					}
+				}
+			}]
+		}
+	}, {
+		"country": {
+			"name": "Zimbabwe",
+			"isoCode": "ZW",
+			"isd": "+263",
+			"currencies": [{
+				"currency": {
+					"name": "US Dollar",
+					"isoCode": "USD",
+					"roundingFactor": "0.01",
+					"order": "1",
+					"fxFixFlag": "S;500,S",
+					"textQuestion": "N",
+					"units": {
+						"equivalence": "100 cents = dollar",
+						"fractionalPlural": "Cents",
+						"fractional": "Cent",
+						"mainPlural": "Dollars",
+						"main": "Dollar"
+					}
+				}
+			}]
+		}
+	}]
+}

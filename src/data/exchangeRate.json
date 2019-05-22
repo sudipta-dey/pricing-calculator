@@ -1,0 +1,28 @@
+{
+  "countries" : [
+    {
+      "name" : "India",
+      "rate": "88.51"
+    },
+    {
+      "name" : "United Kingdom",
+      "rate": "1"
+    },
+    {
+      "name" : "United Arab Emirates",
+      "rate": "4.67"
+    },
+    {
+      "name" : "United States",
+      "rate": "1.27"
+    },
+    {
+      "name" : "Sri Lanka",
+      "rate": "223.86"
+    },
+    {
+      "name" : "Afghanistan",
+      "rate": "101.63"
+    }
+  ]
+}
